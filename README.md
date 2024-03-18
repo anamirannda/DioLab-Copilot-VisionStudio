@@ -56,6 +56,11 @@ O Vision Studio é um conjunto de ferramentas baseadas em interface do usuário 
   
 ![extrair texto de imagens](https://github.com/anamirannda/DioLab-Copilot-VisionStudio/assets/151754232/b7fb6a15-cda3-4e3c-b63e-ba9c17b535ca)
 
+
+![visual studio detecçao de texto em imagem](https://github.com/anamirannda/DioLab-Copilot-VisionStudio/assets/151754232/4d962a68-0d53-408b-bbfb-40711678d2d4)
+
+
+
 Nele você pode selecionar suas imagens e ele transcreve o texto contido nelas.
 
 
